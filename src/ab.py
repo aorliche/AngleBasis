@@ -4,7 +4,6 @@ import torch.nn as nn
 import numpy as np
 
 pi = 3.14
-pi2 = 2*pi
 
 def tonp(t):
     return t.detach().cpu().numpy()
@@ -85,7 +84,7 @@ def mat2vec(p):
     a,b = np.triu_indices(264,1)
     return p[a,b]
 
-def fit_basis(p, n, use_jitter, nepochs=5000, pperiod=1000, verbose=False):
+def fit_basis(p, n, use_jitter, nepochs=2000, pperiod=1000, verbose=False):
     d = p.shape[0]
     ab = AngleBasis(n, d, use_jitter=use_jitter)
     optim = torch.optim.Adam(ab.parameters(), lr=0.01, weight_decay=0)
