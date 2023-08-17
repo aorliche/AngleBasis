@@ -46,4 +46,6 @@ See the paper in the references section.
 }
 
 # Contact
-If you have any questions, please contact me at <a href='mailto:aorlichenko@tulane.edu'>Anton Orlichenko aorlichenko@tulane.edu</a>
+Please contact me at <a href='mailto:aorlichenko@tulane.edu'>aorlichenko@tulane.edu</a><br>
+Website: <a href='https://aorliche.github.io'>aorliche.github.io</a><br>
+Lab Website: <a href='http://www2.tulane.edu/~wyp/Home.html'>http://www2.tulane.edu/~wyp/Home.html</a>
