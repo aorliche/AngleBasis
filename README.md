@@ -1,9 +1,15 @@
 # AngleBasis
 A Generative Model and Decomposition for Functional Connectivity
 
+<img src='https://github.com/aorliche/AngleBasis/blob/8db7f4629757187157b51d4694f3090ba4eafe95/images/construction.png' alt='construction.png' width='800'>
+
 We decompose FC into a compressed basis plus a residual.
 
+<img src='https://github.com/aorliche/AngleBasis/blob/8db7f4629757187157b51d4694f3090ba4eafe95/images/identifiability.png' alt='identifiability.png' width='800'>
+
 We find the residual has greatly improved identifiability performance.
+
+<img src='https://github.com/aorliche/AngleBasis/blob/8db7f4629757187157b51d4694f3090ba4eafe95/images/prediction.png' alt='prediction.png' width='800'>
 
 The ensemble of basis plus residual is superior in prediction compared to the original FC.
 
@@ -14,7 +20,9 @@ Run the following command in the terminal:
 pip install -r requirements.txt --break-system-packages
 ```
 
-Then you are all set! Try the codes in the notebook directory:
+Then you are all set! (If you don't want to use pip --break-system-packages you need either install requirements yourself or use a virtual environment.)
+
+Try the codes in the notebook directory:
 
 ```
 cd notebooks
