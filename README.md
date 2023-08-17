@@ -34,6 +34,8 @@ jupyter notebook
 See the paper in the references section.
 
 # References
+<a href='https://arxiv.org/abs/2305.10541'>ArXiv paper</a>
+
 @misc{orlichenko2023angle,
       title={Angle Basis: a Generative Model and Decomposition for Functional Connectivity}, 
       author={Anton Orlichenko and Gang Qu and Ziyu Zhou and Zhengming Ding and Yu-Ping Wang},
@@ -44,8 +46,4 @@ See the paper in the references section.
 }
 
 # Contact
-If you have any questions, please contact:
-
-```
-Anton Orlichenko <aorlichenko@tulane.edu>
-```
+If you have any questions, please contact me at <a href='mailto:aorlichenko@tulane.edu'>Anton Orlichenko aorlichenko@tulane.edu</a>
