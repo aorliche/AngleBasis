@@ -7,7 +7,7 @@ We decompose FC into a compressed basis plus a residual.
 
 <img src='https://github.com/aorliche/AngleBasis/blob/8db7f4629757187157b51d4694f3090ba4eafe95/images/identifiability.png' alt='identifiability.png' width='800'>
 
-We find the residual has greatly improved identifiability performance.
+We find the residual has greatly improves identifiability performance.
 
 <img src='https://github.com/aorliche/AngleBasis/blob/8db7f4629757187157b51d4694f3090ba4eafe95/images/prediction.png' alt='prediction.png' width='800'>
 
